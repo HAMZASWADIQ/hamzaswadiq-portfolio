@@ -93,7 +93,7 @@ const About = () => {
               <p className="text-muted-foreground leading-relaxed">
                 <span className="text-foreground">Father:</span> Abdullah PK, <span className="text-foreground">Mother:</span> Maimoona P, 
                 <span className="text-foreground"> Sisters:</span> Hafsa, Asma PK, <span className="text-foreground">Brother:</span> Muhammed Swalih PK. 
-                Living in Kodinji, Malappuram, Kerala, India.
+                Living in Nannambra,Tirurangadi, Malappuram, Kerala, India.
               </p>
             </div>
           </div>
